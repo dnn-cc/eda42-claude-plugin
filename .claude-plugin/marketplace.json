@@ -1,0 +1,18 @@
+{
+  "name": "nomoreda",
+  "owner": {
+    "name": "DNN.CC",
+    "email": "support@nomoreda.com"
+  },
+  "description": "Official NOMOREDA plugin for designing schematics and PCBs through the hosted NOMOREDA MCP server.",
+  "plugins": [
+    {
+      "name": "nomoreda",
+      "source": "./plugins/nomoreda",
+      "description": "Design native schematics and PCBs in your NOMOREDA account through guarded MCP tools, with automatic or staged-review workflows.",
+      "version": "0.8.2",
+      "homepage": "https://nomoreda.com/",
+      "category": "development"
+    }
+  ]
+}

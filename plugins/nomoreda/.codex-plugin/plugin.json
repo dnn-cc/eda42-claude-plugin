@@ -1,0 +1,33 @@
+{
+  "name": "nomoreda",
+  "version": "0.8.2",
+  "description": "Design native schematics and PCBs through guarded MCP tools with automatic or staged-review workflows.",
+  "author": {
+    "name": "DNN.CC",
+    "email": "support@nomoreda.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "NOMOREDA",
+    "composerIcon": "./assets/icon.png",
+    "logo": "./assets/icon.png",
+    "logoDark": "./assets/icon.png",
+    "shortDescription": "Design schematics and PCBs",
+    "developerName": "DNN.CC",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Connect to my NOMOREDA account and list my projects so I can choose one to work on.",
+      "Review this schematic and propose the next design steps.",
+      "Help me resume my PCB work from the last saved version."
+    ],
+    "longDescription": "Connect your NOMOREDA account to discover, create, inspect and edit electronic design projects with Codex or ChatGPT. Choose all projects or selected projects; each tool operation targets an explicit project. Work with schematics and PCB layouts, save design versions, inspect supported native checks, and export supported native design files. Project permissions and review gates control changes. Engineering results require review and do not constitute fabrication approval.",
+    "websiteURL": "https://nomoreda.com/",
+    "privacyPolicyURL": "https://nomoreda.com/privacy/",
+    "termsOfServiceURL": "https://nomoreda.com/terms/"
+  },
+  "mcpServers": "./.mcp.json"
+}

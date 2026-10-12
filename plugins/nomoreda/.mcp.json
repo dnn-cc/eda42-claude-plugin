@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nomoreda": {
+      "type": "http",
+      "url": "https://nomoreda.com/mcp"
+    }
+  }
+}
