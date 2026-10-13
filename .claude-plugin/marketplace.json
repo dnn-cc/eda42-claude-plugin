@@ -10,7 +10,7 @@
       "name": "nomoreda",
       "source": "./plugins/nomoreda",
       "description": "Design native schematics and PCBs in your NOMOREDA account through guarded MCP tools, with automatic or staged-review workflows.",
-      "version": "0.8.2",
+      "version": "0.8.3",
       "homepage": "https://nomoreda.com/",
       "category": "development"
     }

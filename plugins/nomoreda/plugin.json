@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "nomoreda",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Connect your NOMOREDA account to discover, create, inspect, edit, check and export projects through guarded MCP tools.",
   "keywords": [
     "pcb",

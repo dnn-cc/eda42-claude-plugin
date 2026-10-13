@@ -1,6 +1,6 @@
 {
   "name": "nomoreda",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Design native schematics and PCBs in your NOMOREDA account through guarded MCP tools, with automatic or staged-review workflows.",
   "author": {
     "name": "DNN.CC",
