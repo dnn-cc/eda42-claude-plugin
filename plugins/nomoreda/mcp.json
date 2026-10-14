@@ -1,9 +1,9 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
-    "nomoreda": {
+    "eda42": {
       "type": "http",
-      "url": "https://nomoreda.com/mcp"
+      "url": "https://eda42.cc/mcp"
     }
   }
 }

@@ -1,13 +1,13 @@
 {
-  "name": "nomoreda",
-  "version": "0.8.3",
-  "description": "Design native schematics and PCBs in your NOMOREDA account through guarded MCP tools, with automatic or staged-review workflows.",
+  "name": "eda42",
+  "version": "0.9.1",
+  "description": "Design native schematics and PCBs in your EDA42 account through guarded MCP tools, with automatic or staged-review workflows.",
   "author": {
     "name": "DNN.CC",
-    "email": "support@nomoreda.com",
-    "url": "https://nomoreda.com/"
+    "email": "support@eda42.cc",
+    "url": "https://eda42.cc/"
   },
-  "homepage": "https://nomoreda.com/",
+  "homepage": "https://eda42.cc/",
   "keywords": [
     "pcb",
     "schematic",

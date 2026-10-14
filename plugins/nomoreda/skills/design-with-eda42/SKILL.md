@@ -1,16 +1,16 @@
 ---
-name: design-with-nomoreda
-description: Create, inspect or resume NOMOREDA electronic designs, from project creation and component selection through schematics, PCB placement, routing and native verification. Use the connected project's automatic or staged-review workflow.
+name: design-with-eda42
+description: Create, inspect or resume EDA42 electronic designs, from project creation and component selection through schematics, PCB placement, routing and native verification. Use the connected project's automatic or staged-review workflow.
 ---
 
-Use NOMOREDA's connected MCP tools as the design authority. On app-wide/account
+Use EDA42's connected MCP tools as the design authority. On app-wide/account
 connections, call `list_projects` to identify the intended design and include its
 `projectId` on every project tool call; there is no shared active project.
 Project-only credentials and endpoints are retired. Reconnect through account
 `/mcp` with explicit consent; never silently expand an existing restricted grant.
 Read `get_agent_context` and `get_engineering_workflow` before design writes. Reuse
 the existing connection and scope. For a new connection use the
-host's NOMOREDA Connect flow at the app-wide `/mcp` endpoint; preserve existing
+host's EDA42 Connect flow at the app-wide `/mcp` endpoint; preserve existing
 access scope and use normal sign-in/consent controls.
 
 ## Load only current guidance

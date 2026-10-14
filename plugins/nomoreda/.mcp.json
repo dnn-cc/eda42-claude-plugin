@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "nomoreda": {
+    "eda42": {
       "type": "http",
-      "url": "https://nomoreda.com/mcp"
+      "url": "https://eda42.cc/mcp"
     }
   }
 }
