@@ -1,6 +1,6 @@
 {
   "name": "eda42",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "Design native schematics and PCBs in your EDA42 account through guarded MCP tools, with automatic or staged-review workflows.",
   "author": {
     "name": "DNN.CC",

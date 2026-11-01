@@ -23,8 +23,8 @@ Then run `/mcp`, choose the EDA42 server and sign in. The plugin adds:
 ## Use in Claude.ai or Claude Desktop
 
 Add a custom connector with the URL `https://eda42.cc/mcp` and sign in.
-Existing connections to `https://nomoreda.com/mcp` remain supported during the
-domain transition; reconnect only when you choose to move that connection.
+Existing connections remain supported during the domain transition; use the
+host's connection settings when moving to the current endpoint.
 
 ## Access and permissions
 

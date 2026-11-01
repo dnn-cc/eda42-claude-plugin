@@ -54,7 +54,7 @@ hash and read it again. Keep the selected IDs, revision, selection hash, unchang
 loaded-topic list and next offset for an interrupted read, but do not mark partial
 topics loaded. If that state or retained content is lost, restart at offset zero.
 
-Authenticated MCP tool replies carry a compact `nomoredaKnowledge.revision`
+Authenticated MCP tool replies carry a compact `eda42Knowledge.revision`
 marker, including errors. On a change, refresh the index with the previous index
 hashes as `knownTopics` to identify changed/new and removed topics. `knownTopics`
 is index comparison only; it never proves content was read. Reload the current
@@ -70,7 +70,7 @@ during thinking or an operation already running. Check the index when resuming
 or changing phases. Routine knowledge edits need no reinstall; tool/schema changes
 need supported discovery. The 0.8.0 skill enables efficient retrieval; an older
 server uses the single-topic fallback. Local stdio bridge users must upgrade the
-plugin to 0.8.1 and restart the connection for the expanded tool catalog and
+plugin to 0.10.0 and restart the connection for the current tool catalog and
 mandatory revision markers on near-limit replies. Older bridges can fail during
 discovery; a skill refresh alone does not replace the bridge. Hosted HTTP
 connections need no bridge update.

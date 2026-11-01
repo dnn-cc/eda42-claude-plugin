@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "eda42",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "Connect your EDA42 account to discover, create, inspect, edit, check and export projects through guarded MCP tools.",
   "keywords": [
     "pcb",
