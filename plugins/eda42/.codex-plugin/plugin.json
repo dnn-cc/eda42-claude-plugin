@@ -9,7 +9,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "EDA42",
-    "composerIcon": "./assets/icon.png",
+    "composerIcon": "./assets/composer-icon.png",
     "logo": "./assets/icon.png",
     "logoDark": "./assets/icon.png",
     "shortDescription": "Design schematics and PCBs",
@@ -27,7 +27,8 @@
     "longDescription": "Connect your EDA42 account to discover, create, inspect and edit electronic design projects with Codex or ChatGPT. Choose all projects or selected projects; each tool operation targets an explicit project. Work with schematics and PCB layouts, save design versions, inspect supported native checks, and export supported native design files. Project permissions and review gates control changes. Engineering results require review and do not constitute fabrication approval.",
     "websiteURL": "https://eda42.cc/",
     "privacyPolicyURL": "https://eda42.cc/privacy/",
-    "termsOfServiceURL": "https://eda42.cc/terms/"
+    "termsOfServiceURL": "https://eda42.cc/terms/",
+    "composerIconDark": "./assets/composer-icon.png"
   },
   "mcpServers": "./.mcp.json"
 }
