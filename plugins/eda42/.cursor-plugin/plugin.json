@@ -9,6 +9,7 @@
     "url": "https://eda42.cc/"
   },
   "homepage": "https://eda42.cc/",
+  "license": "Apache-2.0",
   "keywords": [
     "pcb",
     "schematic",
