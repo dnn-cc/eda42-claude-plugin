@@ -1,5 +1,6 @@
 {
   "name": "eda42",
+  "displayName": "EDA42",
   "version": "0.10.0",
   "description": "Design native schematics and PCBs in your EDA42 account through guarded MCP tools, with automatic or staged-review workflows.",
   "author": {
@@ -8,6 +9,10 @@
     "url": "https://eda42.cc/"
   },
   "homepage": "https://eda42.cc/",
+  "repository": "https://github.com/dnn-cc/eda42-claude-plugin",
+  "privacyPolicyUrl": "https://eda42.cc/privacy/",
+  "termsOfServiceUrl": "https://eda42.cc/terms/",
+  "supportUrl": "https://eda42.cc/support/",
   "license": "Apache-2.0",
   "keywords": [
     "pcb",
