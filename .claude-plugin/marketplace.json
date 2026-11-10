@@ -10,7 +10,7 @@
       "name": "eda42",
       "source": "./plugins/eda42",
       "description": "Design native schematics and PCBs in your EDA42 account through guarded MCP tools, with automatic or staged-review workflows.",
-      "version": "0.10.0",
+      "version": "0.10.1",
       "homepage": "https://eda42.cc/",
       "category": "development"
     }
