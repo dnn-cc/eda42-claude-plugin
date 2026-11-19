@@ -68,8 +68,7 @@ uncertain writes. A guidance update does not authorize a new task, change a mode
 or prove earlier work wrong. Updates appear on a subsequent tool response, not
 during thinking or an operation already running. Check the index when resuming
 or changing phases. Routine knowledge edits need no reinstall; tool/schema changes
-need supported discovery. The 0.8.0 skill enables efficient retrieval; an older
-server uses the single-topic fallback. Local stdio bridge users must upgrade the
+need supported discovery. Local stdio bridge users must upgrade the
 plugin to 0.10.0 and restart the connection for the current tool catalog and
 mandatory revision markers on near-limit replies. Older bridges can fail during
 discovery; a skill refresh alone does not replace the bridge. Hosted HTTP
